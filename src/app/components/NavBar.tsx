@@ -9,6 +9,11 @@ const NavBar = () => {
       ariaLabel: "View our services",
     },
     {
+      name: "Blog",
+      href: "/blog",
+      ariaLabel: "View our services",
+    },
+    {
       name: "Solutions",
       href: "/solutions",
       ariaLabel: "Explore our solutions",
